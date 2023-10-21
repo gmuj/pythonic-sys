@@ -73,6 +73,7 @@ nav:
   - Python:
     - Home: python.md
     - Introduction: python/introduction.md
+    - Tips & Tricks: python/tipsandtricks.md
   - Django:
     - Home: django.md
     - Other: django/other.md
