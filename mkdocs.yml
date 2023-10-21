@@ -68,7 +68,7 @@ extra:
 
 nav:
   - Home:
-    - index.md
+    - About: index.md
     - Contact: contact.md
   - Python:
     - Home: python.md
