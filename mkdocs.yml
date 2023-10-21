@@ -67,12 +67,14 @@ extra:
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
 
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - Contact: contact.md
   - Python:
-    - python.md
+    - Home: python.md
     - Introduction: python/introduction.md
     - Other: python/other.md
   - Django:
-    - django.md
+    - Home: django.md
     - Other: django/other.md
     - Introduction: django/introduction.md
