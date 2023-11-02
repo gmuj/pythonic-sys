@@ -48,6 +48,8 @@ markdown_extensions:
 copyright: |
   &copy; 2023 <a href="https://github.com/gmuj" target="_blank" rel="noopener">Pythonic Systems</a>
 
+extra_javascript:
+  - scripts/custom.js
 
 extra:
   analytics:
@@ -72,6 +74,7 @@ nav:
     - Contact: contact.md
   - Python:
     - Home: python.md
+    - Roadmap: python/roadmap.md
     - Introduction: python/introduction.md
     - Tips & Tricks: python/tipsandtricks.md
   - Django:
